@@ -126,11 +126,12 @@
             // 
             // exportToExcelButton
             // 
-            this.exportToExcelButton.Location = new System.Drawing.Point(21, 417);
+            this.exportToExcelButton.Location = new System.Drawing.Point(546, 417);
             this.exportToExcelButton.Name = "exportToExcelButton";
             this.exportToExcelButton.Size = new System.Drawing.Size(149, 23);
             this.exportToExcelButton.TabIndex = 0;
             this.exportToExcelButton.Text = "Export to Excel";
+            this.exportToExcelButton.Click += new System.EventHandler(this.exportToExcelButton_Click);
             // 
             // ZoneSpecificVisitorReport
             // 

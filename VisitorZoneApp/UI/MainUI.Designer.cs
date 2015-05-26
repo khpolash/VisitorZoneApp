@@ -176,9 +176,17 @@
             // 
             // monthCalendar1
             // 
-            this.monthCalendar1.Location = new System.Drawing.Point(22, 73);
+            this.monthCalendar1.CausesValidation = false;
+            this.monthCalendar1.Enabled = false;
+            this.monthCalendar1.FirstDayOfWeek = System.Windows.Forms.Day.Friday;
+            this.monthCalendar1.ForeColor = System.Drawing.Color.DarkSeaGreen;
+            this.monthCalendar1.Location = new System.Drawing.Point(16, 76);
             this.monthCalendar1.Name = "monthCalendar1";
+            this.monthCalendar1.ShowWeekNumbers = true;
             this.monthCalendar1.TabIndex = 0;
+            this.monthCalendar1.TitleBackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.monthCalendar1.TitleForeColor = System.Drawing.Color.DarkGreen;
+            this.monthCalendar1.TrailingForeColor = System.Drawing.Color.SeaGreen;
             // 
             // timer1
             // 
@@ -188,16 +196,17 @@
             // messageLabel
             // 
             this.messageLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.messageLabel.Location = new System.Drawing.Point(81, 103);
+            this.messageLabel.Location = new System.Drawing.Point(12, 187);
             this.messageLabel.Name = "messageLabel";
             this.messageLabel.Padding = new System.Windows.Forms.Padding(20, 20, 10, 10);
-            this.messageLabel.Size = new System.Drawing.Size(320, 251);
+            this.messageLabel.Size = new System.Drawing.Size(234, 252);
             this.messageLabel.TabIndex = 2;
             // 
             // MainUi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(784, 461);
             this.Controls.Add(this.messageLabel);
             this.Controls.Add(this.panel1);

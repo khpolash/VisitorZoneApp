@@ -23,3 +23,16 @@ F:\Web Develop-Dot Net\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\Visito
 F:\Web Develop-Dot Net\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csproj.GenerateResource.Cache
 F:\Web Develop-Dot Net\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneSpecificVisitorReport.resources
 F:\Web Develop-Dot Net\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneWiseVisitorNumber.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe.config
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.exe
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.pdb
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csprojResolveAssemblyReference.cache
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.MainUi.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.Properties.Resources.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.VisitorEntryUi.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneEntryUi.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneSpecificVisitorReport.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneWiseVisitorNumber.resources
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csproj.GenerateResource.Cache
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe
+F:\GitUplodProgram\Three Layer Architecture\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.pdb

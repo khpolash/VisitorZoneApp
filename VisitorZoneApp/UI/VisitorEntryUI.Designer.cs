@@ -60,6 +60,7 @@
             // 
             // contactNumberTextBox
             // 
+            this.contactNumberTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.contactNumberTextBox.Location = new System.Drawing.Point(167, 98);
             this.contactNumberTextBox.Name = "contactNumberTextBox";
             this.contactNumberTextBox.Size = new System.Drawing.Size(270, 22);
@@ -67,6 +68,7 @@
             // 
             // emailTextBox
             // 
+            this.emailTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.emailTextBox.Location = new System.Drawing.Point(167, 65);
             this.emailTextBox.Name = "emailTextBox";
             this.emailTextBox.Size = new System.Drawing.Size(270, 22);
@@ -74,6 +76,7 @@
             // 
             // nameTextBox
             // 
+            this.nameTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.nameTextBox.Location = new System.Drawing.Point(167, 32);
             this.nameTextBox.Name = "nameTextBox";
             this.nameTextBox.Size = new System.Drawing.Size(270, 22);
@@ -108,11 +111,14 @@
             // 
             // saveButton
             // 
+            this.saveButton.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.saveButton.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.saveButton.Location = new System.Drawing.Point(440, 445);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(75, 23);
             this.saveButton.TabIndex = 0;
             this.saveButton.Text = "Save";
+            this.saveButton.UseVisualStyleBackColor = false;
             this.saveButton.Click += new System.EventHandler(this.saveButton_Click);
             // 
             // groupBox2
@@ -140,10 +146,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(571, 494);
+            this.ClientSize = new System.Drawing.Size(574, 491);
             this.Controls.Add(this.saveButton);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.MaximumSize = new System.Drawing.Size(590, 530);
+            this.MinimumSize = new System.Drawing.Size(590, 530);
             this.Name = "VisitorEntryUi";
             this.Text = "VisitorEntryUI";
             this.Load += new System.EventHandler(this.VisitorEntryUi_Load);
